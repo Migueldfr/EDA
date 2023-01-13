@@ -1,0 +1,311 @@
+,Country,Altitude,Location,1oHazard,2oHazard,Dead,Party,Sport,Year,Month,Prob/Died
+0,Andorra,2608,Baser Negre,Wind slab,Wet snow,1,2,Off-piste skiing,2018,March,0.5
+1,Austria,1491,Hohe Warte,Persistent weak layer,,1,10,Backcountry skiing,2018,March,0.1
+2,Austria,1491,Hinterbergkofel,Persistent weak layer,Wind slab,1,16,Backcountry skiing,2018,March,0.0625
+3,Austria,1491,Hochkarspitze,Persistent weak layer,,1,3,Backcountry skiing,2018,February,0.3333333333333333
+4,Austria,1491,Kals - Matreier Törl,Wind slab,Persistent weak layer,2,2,Off-piste skiing,2018,January,1.0
+5,Austria,1491,Velilltal,Wind slab,New snow,1,3,Off-piste skiing,2018,January,0.3333333333333333
+6,Austria,1491,Pezid,Wind slab,Persistent weak layer,1,3,Off-piste skiing,2017,December,0.3333333333333333
+7,Austria,1491,Vergaldatal - Kengel,Gliding snow,,1,1,Travelling on road,2017,November,1.0
+8,Austria,1491,Eisarena Anlauftal,,,1,2,Mountaineering/Climbing,2017,December,0.5
+9,Austria,1491,Hohes Brett,,,1,1,Backcountry skiing,2018,March,1.0
+10,Austria,1491,Zwölferkogel,Wind slab,,1,2,Mountaineering/Climbing,2019,February,0.5
+11,Austria,1491,Laserztörl,Persistent weak layer,Wind slab,1,2,Backcountry skiing,2019,January,0.5
+12,Austria,1491,Steißbachtal - Grube,New snow,None,1,4,Off-piste skiing,2019,January,0.25
+13,Austria,1491,Hohe Mut,Persistent weak layer,,1,2,Off-piste skiing,2018,December,0.5
+14,Austria,1491,Hintertuxer Gletscher,Wind slab,,1,4,Off-piste skiing,2018,December,0.25
+15,Austria,1491,Mallnitz - Krumpe Tal,Wind slab,,1,2,Mountaineering/Climbing,2019,January,0.5
+16,Austria,1491,"Rax, Ottohaus, Törlweg",Wet snow,,1,2,Hiking on foot or snowshoeing,2019,March,0.5
+17,Austria,1491,Allas,Wind slab,New snow,1,2,Other,2019,February,0.5
+18,Austria,1491,Großer Schober,Wind slab,,1,1,Backcountry skiing,2019,January,1.0
+19,Austria,1491,"Rüfikopf - Variante \""Wasserschloss\"" Richtung Wöstertäli",Wind slab,Gliding snow,4,4,Off-piste skiing,2019,January,1.0
+20,Austria,1491,Damüls - freier Schiraum westl. Hinterargenalpe,Wind slab,,1,2,Off-piste skiing,2019,January,0.5
+21,Austria,1491,Schoppernau: Diedamskopf - freier Schiraum,New snow,,1,2,Off-piste skiing,2019,January,0.5
+22,Austria,1491,"Lahngang, Abtenau",Wind slab,,2,2,Hiking on foot or snowshoeing,2019,January,1.0
+23,Austria,1491,Stadelberg/Gschwendhütte/Steinparztal,,,2,2,,2019,January,1.0
+24,Austria,1491,Oberlercherspitze,Persistent weak layer,,1,1,Backcountry skiing,2019,May,1.0
+25,Austria,1491,Schober Lahngang,New snow,,2,2,Hiking on foot or snowshoeing,2019,January,1.0
+26,Austria,1491,Rettenbachferner,Persistent weak layer,Wind slab,2,3,Off-piste skiing,2019,November,0.6666666666666666
+27,Austria,1491,Gamskarspitze,Persistent weak layer,,1,4,Mountaineering/Climbing,2019,December,0.25
+28,Austria,1491,Murkarspitze,Persistent weak layer,,1,8,Backcountry skiing,2020,February,0.125
+29,Austria,1491,Lammereis - Kleinglocknerkees,Wind slab,,1,1,Mountaineering/Climbing,2020,March,1.0
+30,Austria,1491,Hallstatt,Wind slab,,5,5,Other,2020,March,1.0
+31,Austria,1491,"Göller, Eisgrube",Wind slab,,1,1,Off-piste skiing,2020,March,1.0
+32,Austria,1491,"Hoher Ifen, Ifenmulde, Kleinwalsertal",Wind slab,,1,2,Backcountry skiing,2019,December,0.5
+33,Austria,1491,Lammereis - Kleinglocknerkees,Wind slab,,1,1,Mountaineering/Climbing,2020,March,1.0
+34,Austria,1491,Großvenediger,Persistent weak layer,,1,1,Mountaineering/Climbing,2020,October,1.0
+35,Austria,1491,Stuben-Albonagrat \\,Persistent weak layer,Wind slab,1,1,Backcountry skiing,2020,December,1.0
+36,Austria,1491,Sandkogel,Wind slab,,1,2,Backcountry skiing,2021,January,0.5
+37,Austria,1491,Wanglspitze,Persistent weak layer,Wind slab,1,2,Off-piste skiing,2021,January,0.5
+38,Austria,1491,Juifenalm,Persistent weak layer,Wind slab,2,2,Backcountry skiing,2021,January,1.0
+39,Austria,1491,Widdersbergsattel,Persistent weak layer,,1,1,Backcountry skiing,2021,January,1.0
+40,Austria,1491,Neunerkogel,Persistent weak layer,,1,3,Off-piste skiing,2021,January,0.3333333333333333
+41,Austria,1491,Arbeserkogel,Persistent weak layer,,1,2,Backcountry skiing,2021,February,0.5
+42,Austria,1491,Mitterkoegerl / Teufenbachtal,Wind slab,Persistent weak layer,1,1,Backcountry skiing,2021,January,1.0
+43,Austria,1491,Warscheneck,Persistent weak layer,Wet snow,1,2,,2021,February,0.5
+44,Austria,1491,Brennerspitze,Persistent weak layer,,1,5,Backcountry skiing,2021,March,0.2
+45,Austria,1491,Großer Zunig,Wind slab,Persistent weak layer,2,2,Backcountry skiing,2021,April,1.0
+46,Austria,1491,Kleiner Ötscher,Persistent weak layer,Wind slab,1,6,,2022,January,0.16666666666666666
+47,Austria,1491,Venet,Wind slab,None,1,6,Off-piste skiing,2021,December,0.16666666666666666
+48,Austria,1491,Breiteggspitze,Persistent weak layer,None,2,2,Backcountry skiing,2022,February,1.0
+49,Austria,1491,Fließer Berg,Persistent weak layer,None,5,6,Backcountry skiing,2022,February,0.8333333333333334
+50,Austria,1491,Gammerspitze,Persistent weak layer,,1,5,Backcountry skiing,2022,February,0.2
+51,Austria,1491,Schafseitenspitze,Persistent weak layer,None,1,8,Backcountry skiing,2022,February,0.125
+52,Austria,1491,Ötscher,Persistent weak layer,,3,4,Backcountry skiing,2022,March,0.75
+53,Austria,1491,Lackenspitze,Wind slab,Persistent weak layer,3,11,Backcountry skiing,2021,December,0.2727272727272727
+54,Austria,1491,Knödelkopf / Klösterle-Stuben,Wind slab,Gliding snow,1,4,Backcountry skiing,2022,February,0.25
+55,Czech Republic,788,"Jeseníky, Velký Kotel",Wind slab,Persistent weak layer,1,3,Backcountry skiing,2021,January,0.3333333333333333
+56,Czech Republic,788,"Krkonoše, Obří důl, Úpička",Wind slab,Persistent weak layer,1,2,Backcountry skiing,2021,February,0.5
+57,France,1825,,,,37,37,Other,2018,July,1.0
+58,France,1825,,,,13,13,Other,2019,July,1.0
+59,France,1825,Vars,Wind slab,New snow,1,3,Off-piste skiing,2019,December,0.3333333333333333
+60,France,1825,Revel.,Wind slab,,2,2,Backcountry skiing,2020,January,1.0
+61,France,1825,Les Houches,New snow,Wind slab,1,6,Off-piste skiing,2020,January,0.16666666666666666
+62,France,1825,La toussuire,Wind slab,Wet snow,2,3,Off-piste skiing,2020,January,0.6666666666666666
+63,France,1825,Vallorcine,Wind slab,,1,3,Off-piste skiing,2020,March,0.3333333333333333
+64,France,1825,La Plagne,Wet snow,New snow,1,3,Off-piste skiing,2020,March,0.3333333333333333
+65,France,1825,Barèges,Wet snow,,2,7,Backcountry skiing,2020,March,0.2857142857142857
+66,France,1825,Valmeinier,Wind slab,Persistent weak layer,1,6,Backcountry skiing,2020,January,0.16666666666666666
+67,France,1825,"Chamonix, couloir Gervasutti",,,1,2,Backcountry skiing,2020,May,0.5
+68,France,1825,Le Monêtier les bains,Persistent weak layer,Wet snow,1,5,Backcountry skiing,2020,December,0.2
+69,France,1825,St Bon Tarentaise,,,1,1,Backcountry skiing,2021,January,1.0
+70,France,1825,Tignes,Wind slab,Persistent weak layer,1,4,Backcountry skiing,2021,January,0.25
+71,France,1825,Stosswihr,,,1,2,Backcountry skiing,2021,January,0.5
+72,France,1825,Saint Christophe en Oisans,Persistent weak layer,Wind slab,2,2,Backcountry skiing,2021,January,1.0
+73,France,1825,Farges,,,1,2,Backcountry skiing,2021,January,0.5
+74,France,1825,Saint-Christophe-sur-Guiers,Wind slab,Persistent weak layer,1,1,Backcountry skiing,2021,January,1.0
+75,France,1825,Jarsy,,,1,1,Backcountry skiing,2021,January,1.0
+76,France,1825,Aillons-le-Vieux,New snow,Wind slab,1,2,Backcountry skiing,2021,January,0.5
+77,France,1825,Bourg-Saint-Maurice,Wind slab,Persistent weak layer,1,3,Backcountry skiing,2021,January,0.3333333333333333
+78,France,1825,La Grave,New snow,Wind slab,1,1,Backcountry skiing,2021,January,1.0
+79,France,1825,Le Freney-d\'Oisans,Wind slab,New snow,1,2,Backcountry skiing,2021,January,0.5
+80,France,1825,Aussois,Wind slab,Wet snow,1,2,Backcountry skiing,2021,January,0.5
+81,France,1825,Grust,Wind slab,Wet snow,1,1,Backcountry skiing,2021,January,1.0
+82,France,1825,Le Monêtier les bains,Wind slab,Persistent weak layer,1,2,Backcountry skiing,2021,January,0.5
+83,France,1825,Chateauroux les Alpes,,,1,1,,2021,February,1.0
+84,France,1825,"barmerousse, 74190 Passy",New snow,Wind slab,1,1,Backcountry skiing,2021,February,1.0
+85,France,1825,Lavaldens (38350),New snow,Wind slab,1,1,Backcountry skiing,2021,February,1.0
+86,France,1825,Les 2 Alpes - col des Gourses,Wind slab,,1,1,,2021,February,1.0
+87,France,1825,Aime-La-Plagne (73 210),Persistent weak layer,New snow,1,3,Backcountry skiing,2021,March,0.3333333333333333
+88,France,1825,Bozel - Dou de Moûtiers,Persistent weak layer,Wet snow,1,2,Backcountry skiing,2021,March,0.5
+89,France,1825,Val d\'Isère,None,,1,1,Backcountry skiing,2021,April,1.0
+90,France,1825,La Grande Ruine,Wind slab,New snow,3,3,Mountaineering/Climbing,2021,May,1.0
+91,France,1825,Ailefroide Occidentale - glacier Long,Wind slab,New snow,2,4,Mountaineering/Climbing,2021,May,0.5
+92,France,1825,Villaroger (73640),Wet snow,New snow,3,3,Backcountry skiing,2021,May,1.0
+93,France,1825,Valloire (73450),Wind slab,Wet snow,4,5,Backcountry skiing,2021,May,0.8
+94,France,1825,Chamonix-Mont-Blanc,New snow,Wind slab,1,1,Backcountry skiing,2021,May,1.0
+95,France,1825,Chamonix-Mont-Blanc,New snow,Wind slab,1,1,Mountaineering/Climbing,2021,May,1.0
+96,France,1825,Chamonix-Mont-Blanc,New snow,Wind slab,2,2,Backcountry skiing,2021,May,1.0
+97,France,1825,pointe de Gargan,Wet snow,,1,2,Mountaineering/Climbing,2021,June,0.5
+98,France,1825,secteur du Pic de Corne,Wind slab,New snow,1,2,Backcountry skiing,2022,January,0.5
+99,France,1825,Saint-Colomban-des-Villards (73130) - Tête de Bellard,New snow,Wind slab,2,2,Off-piste skiing,2022,February,1.0
+100,France,1825,Montvalezan 73700,Wind slab,Wet snow,1,1,Off-piste skiing,2022,February,1.0
+101,France,1825,Gavarnie,Wind slab,,1,2,Other,2022,March,0.5
+102,France,1825,Saint Christophe en Oisans,Wet snow,Gliding snow,2,2,Backcountry skiing,2022,April,1.0
+103,France,1825,Chamonix-Mont-Blanc(74400),New snow,Wind slab,2,8,Other,2022,April,0.25
+104,France,1825,Ceillac,Wind slab,,1,2,Mountaineering/Climbing,2022,November,0.5
+105,France,1825,Champagny-en-Vanoise,New snow,,2,2,Mountaineering/Climbing,2022,November,1.0
+106,France,1825,Enchastrayes,New snow,Wind slab,1,2,Backcountry skiing,2022,December,0.5
+107,France,1825,Le Mônetier-les-Bains,New snow,Persistent weak layer,1,1,Backcountry skiing,2022,December,1.0
+108,France,1825,Vars,New snow,Persistent weak layer,1,1,Off-piste skiing,2022,December,1.0
+109,France,1825,La Léchère,New snow,Persistent weak layer,1,2,Backcountry skiing,2022,December,0.5
+110,Germany,777,Geigelstein,,,1,2,Backcountry skiing,2018,January,0.5
+111,Germany,777,Kehlstein,,,1,1,Backcountry skiing,2017,November,1.0
+112,Germany,777,Ochsenälpeleskopf,Gliding snow,,2,5,Backcountry skiing,2019,February,0.4
+113,Germany,777,Teisenberg,New snow,,1,6,Backcountry skiing,2019,January,0.16666666666666666
+114,Germany,777,Hocheisspitze,Persistent weak layer,Wet snow,1,2,Backcountry skiing,2022,January,0.5
+115,Germany,777,Steintalhörnl,Wind slab,Gliding snow,1,1,Backcountry skiing,2022,February,1.0
+116,Germany,777,"Hotelhang, Wendelstein",New snow,Wind slab,1,1,Mountaineering/Climbing,2022,January,1.0
+117,Germany,777,Westliche Karwendelspitze,Wet snow,,1,1,Mountaineering/Climbing,2022,April,1.0
+118,Italy,1980,Gran Sasso  - Pizzo Cefalone,Wind slab,Wind slab,1,2,Other,2017,December,0.5
+119,Italy,1980,Malga San Valentino,None,None,2,2,,2018,January,1.0
+120,Italy,1980,Val gardena - val ciavel,Wind slab,Wind slab,1,1,Mountaineering/Climbing,2018,January,1.0
+121,Italy,1980,Campo felice/Anfiteatro,Wind slab,Wind slab,2,3,Off-piste skiing,2018,February,0.6666666666666666
+122,Italy,1980,Valle Angrogna-Punta piattina,Wind slab,Wind slab,1,1,Off-piste skiing,2018,February,1.0
+123,Italy,1980,val d\\\'angrogna-/punta piattina,Wind slab,Wind slab,1,1,Off-piste skiing,2018,February,1.0
+124,Italy,1980,Valle Gesso-Cayre dell\\\' Agnel,Wind slab,Wind slab,1,1,Off-piste skiing,2018,February,1.0
+125,Italy,1980,Monte grignetta,Wind slab,Wind slab,2,3,Mountaineering/Climbing,2018,February,0.6666666666666666
+126,Italy,1980,S.Domenico di Varzo,Wind slab,Wind slab,1,1,Off-piste skiing,2018,March,1.0
+127,Italy,1980,Vallone dell\\\' Otro,Wind slab,Wind slab,1,1,Off-piste skiing,2018,March,1.0
+128,Italy,1980,Val Badia,Wind slab,Wind slab,1,1,Off-piste skiing,2018,March,1.0
+129,Italy,1980,Forcola,New snow,New snow,1,1,Off-piste skiing,2018,March,1.0
+130,Italy,1980,Alpi Retiche-Gran Zebrù,Wind slab,Wind slab,3,3,Off-piste skiing,2018,March,1.0
+131,Italy,1980,Piz Galin,Wind slab,Wind slab,1,1,Mountaineering/Climbing,2018,March,1.0
+132,Italy,1980,Alpi Graie-Gran Paradiso-Colle Chamolè,Wet snow,Wet snow,2,4,Off-piste skiing,2018,April,0.5
+133,Italy,1980,Pila-Col Chamolè,Wet snow,Wet snow,2,6,Off-piste skiing,2018,April,0.3333333333333333
+134,Italy,1980,Bienno-Lavena,Wet snow,Wind slab,1,1,Other,2018,April,1.0
+135,Italy,1980,Val Lavenna-Passo Crocedomini,New snow,Wet snow,1,1,Off-piste skiing,2018,April,1.0
+136,Italy,1980,Gran Sasso / Pizzo Cefalone,,,1,1,Other,2017,December,1.0
+137,Italy,1980,Malga San Valentino,,,2,2,Off-piste skiing,2018,January,1.0
+138,Italy,1980,Val Gardena Zona Val  di Ciavei,,,1,1,Mountaineering/Climbing,2018,January,1.0
+139,Italy,1980,Val d Angrogna / Punta Piattina,,,1,1,Off-piste skiing,2018,February,1.0
+140,Italy,1980,Campo Felice / Anfiteatro,,,2,3,Off-piste skiing,2018,February,0.6666666666666666
+141,Italy,1980,Valle Gesso  /  Cayre dell\\\'Agnel,,,1,1,Off-piste skiing,2018,February,1.0
+142,Italy,1980,Alpi Graie /  Loc. Pian Benot,,,1,1,Off-piste skiing,2018,March,1.0
+143,Italy,1980,Val Badia,,,1,1,On skiruns,2018,March,1.0
+144,Italy,1980,Forcola,,,1,1,On skiruns,2018,March,1.0
+145,Italy,1980,Alpi Retiche / Gran Zebrù,,,3,3,Off-piste skiing,2018,March,1.0
+146,Italy,1980,Piz Galin,,,1,1,Off-piste skiing,2018,March,1.0
+147,Italy,1980,Alpi Graie / Alpi del Gran Paradiso / Colle di ChamolÃ¨,,,2,4,Off-piste skiing,2018,April,0.5
+148,Italy,1980,Val Lavenna / Passo  Crocedomini,,,1,1,Off-piste skiing,2018,April,1.0
+149,Italy,1980,Alpi Piemontesi/S.Domenico di Varzo,Wind slab,Wind slab,1,1,Off-piste skiing,2018,March,1.0
+150,Italy,1980,Colle Pillont,Wind slab,Wind slab,1,1,Backcountry skiing,2018,December,1.0
+151,Italy,1980,Monte Spico,Wind slab,Wind slab,1,6,Backcountry skiing,2019,January,0.16666666666666666
+152,Italy,1980,Canale dello spagnolo,Wind slab,Wind slab,4,4,Backcountry skiing,2019,February,1.0
+153,Italy,1980,Croda Rossa di Sesto,New snow,New snow,1,1,On skiruns,2019,February,1.0
+154,Italy,1980,Punta Ollietta,Wind slab,Wind slab,1,3,Off-piste skiing,2019,February,0.3333333333333333
+155,Italy,1980,Livigno,New snow,New snow,1,1,On skiruns,2019,February,1.0
+156,Italy,1980,Monte Coglians,Wind slab,Wind slab,1,1,Backcountry skiing,2019,February,1.0
+157,Italy,1980,Alpi Cozie / Gruppo Queyron Albergian Sestriere / Monte Morefreddo / Loc. Bric del cucù,New snow,New snow,1,1,Backcountry skiing,2019,February,1.0
+158,Italy,1980,Dolomiti / Gruppo del Puez,Wind slab,Wind slab,1,1,Backcountry skiing,2019,January,1.0
+159,Italy,1980,Pista Lazaum / Maso Corto,Wind slab,Wind slab,1,1,Mountaineering/Climbing,2019,March,1.0
+160,Italy,1980,Prealpi vicentine / Massiccio del Pasubio / Monte del Pasubio,New snow,New snow,1,1,Hiking on foot or snowshoeing,2019,April,1.0
+161,Italy,1980,Alpi retiche Meridionali / Gruppo Ortles Cevedale / Punta San Matteo,Wet snow,Wet snow,1,3,Mountaineering/Climbing,2019,June,0.3333333333333333
+162,Italy,1980,Punta Helbronner,Wind slab,Wind slab,2,2,Off-piste skiing,2019,November,1.0
+163,Italy,1980,Tofana di Rozes - rifugio Giussani,Wet snow,Wet snow,1,2,Off-piste skiing,2020,May,0.5
+164,Italy,1980,Val Sesia - Passo della Civera,Wind slab,Wind slab,1,4,Off-piste skiing,2019,December,0.25
+165,Italy,1980,Alpe di Siusi - Hundskopf,Wind slab,Wind slab,1,4,Other,2019,December,0.25
+166,Italy,1980,punta Fontana fredda- Valtournanche- Cheneil,Wind slab,Wind slab,1,1,Off-piste skiing,2019,December,1.0
+167,Italy,1980,Solda-Schotnaufpiste,Wind slab,Wind slab,1,1,Off-piste skiing,2019,December,1.0
+168,Italy,1980,Senales,Wind slab,Wind slab,3,6,Off-piste skiing,2019,December,0.5
+169,Italy,1980,dolomiti di brenta vedretta superiore-scivolo ovest (vallone Massari),Gliding snow,Wind slab,1,2,Mountaineering/Climbing,2019,December,0.5
+170,Italy,1980,Pizzo del Diavolo/Canalone della Malgina,Wet snow,New snow,1,1,Off-piste skiing,2020,May,1.0
+171,Italy,1980,Valle di Champorcher - sotto linea impianto Cimetta Rossa,Wet snow,Wet snow,1,1,Off-piste skiing,2019,November,1.0
+172,Italy,1980,Maso corto/Val Senales,Wind slab,New snow,2,2,Off-piste skiing,2021,January,1.0
+173,Italy,1980,Val Travenanzes gruppo tofane,Persistent weak layer,Wind slab,1,3,Off-piste skiing,2021,January,0.3333333333333333
+174,Italy,1980,Costa del Palio,Wind slab,Wind slab,1,2,Off-piste skiing,2021,January,0.5
+175,Italy,1980,Torrione Roma,Wind slab,Wind slab,1,1,Off-piste skiing,2021,January,1.0
+176,Italy,1980,Devero-Valle Antigorio,Wind slab,Wind slab,2,2,Off-piste skiing,2021,January,1.0
+177,Italy,1980,malga boschetto - Val Camonica- Mortirolo,Wind slab,Wind slab,1,5,Snowmobiling,2021,January,0.2
+178,Italy,1980,Vallone Sautron/ Acceglio (CN),New snow,Wind slab,1,10,Off-piste skiing,2021,January,0.1
+179,Italy,1980,Passo della Gardetta Acceglio (CN),New snow,Wind slab,1,2,Off-piste skiing,2021,January,0.5
+180,Italy,1980,Cima del Bosco,New snow,Wind slab,2,2,Backcountry skiing,2021,February,1.0
+181,Italy,1980,M. Giovo,Wind slab,Wind slab,1,3,Off-piste skiing,2021,February,0.3333333333333333
+182,Italy,1980,Sella Nevea,Wind slab,Wind slab,1,1,Off-piste skiing,2021,February,1.0
+183,Italy,1980,Valle Majelama,Wet snow,Wet snow,4,4,Hiking on foot or snowshoeing,2021,January,1.0
+184,Italy,1980,M. Fregasoga,Wet snow,Wet snow,1,3,,2021,February,0.3333333333333333
+185,Italy,1980,Passo della Manina,Wind slab,Wind slab,1,3,Off-piste skiing,2021,March,0.3333333333333333
+186,Italy,1980,Jof Fuart,Wind slab,Wind slab,2,3,Off-piste skiing,2021,April,0.6666666666666666
+187,Italy,1980,Gran Zebrù,Wind slab,Wind slab,2,4,Off-piste skiing,2021,May,0.5
+188,Italy,1980,Col Collon,,,1,2,Mountaineering/Climbing,2021,May,0.5
+189,Italy,1980,"Val d\'Ayas, Gran Sommettaz",,,1,1,Off-piste skiing,2021,November,1.0
+190,Italy,1980,La Thuille,Wind slab,,1,3,Backcountry skiing,2021,December,0.3333333333333333
+191,Italy,1980,Monte Sorbetta,Persistent weak layer,,1,2,Backcountry skiing,2021,December,0.5
+192,Italy,1980,"Carosello 3000, Livigno",Wind slab,New snow,1,3,Off-piste skiing,2022,February,0.3333333333333333
+193,Italy,1980,Maseben-Vilgand,Wind slab,Persistent weak layer,1,4,Backcountry skiing,2022,February,0.25
+194,Italy,1980,Acceglio- Monte Vallonasso,Wind slab,,1,4,Off-piste skiing,2022,April,0.25
+195,Italy,1980,Ortles - Solda,Wind slab,Wind slab,2,2,Mountaineering/Climbing,2022,April,1.0
+196,Italy,1980,Arp - Courmayeur,Wind slab,Persistent weak layer,1,2,Off-piste skiing,2022,December,0.5
+197,Italy,1980,Arp Vieille - Valgrisence,Wind slab,Persistent weak layer,1,2,Backcountry skiing,2022,December,0.5
+198,Italy,1980,Rif. Passo S. Niccolò,New snow,Wind slab,1,7,Backcountry skiing,2022,December,0.14285714285714285
+199,Italy,1980,Lazaunspitze,,,1,2,Backcountry skiing,2022,December,0.5
+200,Norway,932,Kildalen,Persistent weak layer,New snow,1,1,Snowmobiling,2018,March,1.0
+201,Norway,932,Sydalsfjellet,New snow,Persistent weak layer,1,2,Backcountry skiing,2018,April,0.5
+202,Norway,932,Russelvfjellet,Wind slab,Wet snow,1,5,Backcountry skiing,2018,April,0.2
+203,Norway,932,,,,3,3,Uncontrolled,2018,July,1.0
+204,Norway,932,Blåbærfjellet,Wind slab,Persistent weak layer,4,4,Backcountry skiing,2019,January,1.0
+205,Norway,932,Signesdalsfjellet,,,1,4,Snowmobiling,2019,February,0.25
+206,Norway,932,Brunstadhornet,New snow,,1,2,Backcountry skiing,2019,March,0.5
+207,Norway,932,Storfjellet,Wind slab,,1,2,Backcountry skiing,2019,March,0.5
+208,Norway,932,Dumålstinden,Wind slab,Persistent weak layer,2,2,Travelling on road,2019,March,1.0
+209,Norway,932,Reingjerdfjellet,Wind slab,Persistent weak layer,1,4,Snowmobiling,2019,April,0.25
+210,Norway,932,1237,New snow,Wet snow,1,3,Backcountry skiing,2019,April,0.3333333333333333
+211,Norway,932,Kamkrona,,,2,2,Backcountry skiing,2019,May,1.0
+212,Norway,932,Fridtjofbreen,Wind slab,Persistent weak layer,2,7,Snowmobiling,2020,February,0.2857142857142857
+213,Norway,932,Gråfonnfjellet,Wet snow,Gliding snow,1,3,Backcountry skiing,2020,May,0.3333333333333333
+214,Norway,932,Tromsdalstinden,Wind slab,,1,1,Hiking on foot or snowshoeing,2020,December,1.0
+215,Norway,932,Skittentinden,Persistent weak layer,,1,1,Backcountry skiing,2021,January,1.0
+216,Norway,932,Vassfjellet,,,1,1,On skiruns,2021,January,1.0
+217,Norway,932,Bjørnlitinden,Wind slab,,1,2,Mountaineering/Climbing,2021,January,0.5
+218,Norway,932,"Borgdalen, Jan Mayen",,,2,3,Backcountry skiing,2021,January,0.6666666666666666
+219,Norway,932,Kistrand rv80,Wet snow,Persistent weak layer,1,1,Travelling on road,2021,February,1.0
+220,Norway,932,Sofiatinden,Wind slab,,2,2,Backcountry skiing,2021,May,1.0
+221,Norway,932,Erikaksla,Persistent weak layer,New snow,1,5,Backcountry skiing,2022,March,0.2
+222,Norway,932,"Beretlia, Lyngen",Persistent weak layer,Wind slab,3,9,Backcountry skiing,2022,April,0.3333333333333333
+223,Norway,932,Grøtdalstindan,Wet snow,New snow,1,4,Backcountry skiing,2022,April,0.25
+224,Poland,735,Poland,Wind slab,,1,2,Off-piste skiing,2022,January,0.5
+225,Poland,735,Tatra,Wind slab,,1,2,Backcountry skiing,2022,January,0.5
+226,Poland,735,Krzyżne (trail) Five lakes valley,Wet snow,,1,1,,2022,October,1.0
+227,Poland,735,Przełęcz pod Kopą Kondracką (trail) Kondratowa Valley,Wind slab,,1,5,Hiking on foot or snowshoeing,2022,December,0.2
+228,Romania,1284,Călimani Mt,,,1,3,Other,2017,December,0.3333333333333333
+229,Romania,1284,Parâng Mt.,,,1,3,Other,2017,December,0.3333333333333333
+230,Romania,1284,"Vrancei Mt, Cheile Tișiței",,,1,30,Travelling on road,2018,March,0.03333333333333333
+231,Romania,1284,"Făgăraș Mt, Sâmbăta Valley",,,3,3,Other,2018,April,1.0
+232,Romania,1284,"Coștilei Valley, Bucegi Mt.",Wind slab,New snow,1,5,Other,2018,January,0.2
+233,Romania,1284,Călimani Mt,Wet snow,,1,3,Snowmobiling,2019,February,0.3333333333333333
+234,Romania,1284,"Bucegi Mt, Morarului Valley",Wind slab,,2,2,,2018,December,1.0
+235,Romania,1284,Șerbota,New snow,,1,11,Backcountry skiing,2020,March,0.09090909090909091
+236,Romania,1284,"Făgăraș Mt, Scara Valley",Wind slab,New snow,2,2,Off-piste skiing,2022,March,1.0
+237,Slovakia,1015,,,,5,5,Uncontrolled,2018,July,1.0
+238,Slovakia,1015,,,,4,4,Uncontrolled,2019,July,1.0
+239,Slovakia,1015,"Školský žlab, Chopok",Wind slab,,1,2,Off-piste skiing,2019,December,0.5
+240,Slovakia,1015,Kondratova kopa,Wind slab,,2,3,Backcountry skiing,2021,February,0.6666666666666666
+241,Slovakia,1015,Suchá dolina,Wind slab,,2,4,Off-piste skiing,2021,December,0.5
+242,Slovakia,1015,"Gresovo, Kamenista dolina",Wind slab,,1,3,Backcountry skiing,2022,January,0.3333333333333333
+243,Slovakia,1015,"Bradavica, Slavkovská dolina",,,2,4,Mountaineering/Climbing,2022,September,0.5
+244,Slovakia,1015,"Priečne sedlo, Malá Studená dolina",Wind slab,,2,2,Hiking on foot or snowshoeing,2022,December,1.0
+245,Slovenia,1040,Mrzla gora,,,1,2,Mountaineering/Climbing,2018,March,0.5
+246,Slovenia,1040,Storžič,Persistent weak layer,Wind slab,2,2,Mountaineering/Climbing,2021,February,1.0
+247,Slovenia,1040,Storžič,Persistent weak layer,Wind slab,1,2,Mountaineering/Climbing,2021,February,0.5
+248,Spain,2152,Val d\\\'Aran,Wind slab,,2,3,Backcountry skiing,2018,March,0.6666666666666666
+249,Spain,2152,Formigal,,,1,1,Off-piste skiing,2018,February,1.0
+250,Spain,2152,Val d\\\'Aran,Wind slab,Persistent weak layer,1,1,Off-piste skiing,2019,January,1.0
+251,Spain,2152,Cap de Vaquèira,Wind slab,New snow,1,4,Off-piste skiing,2020,March,0.25
+252,Spain,2152,San Isidro,,,2,3,Travelling on road,2021,January,0.6666666666666666
+253,Spain,2152,Roques Blanques-Pic de la Dona,Wind slab,None,1,1,Mountaineering/Climbing,2021,November,1.0
+254,Spain,2152,Cap de Vaquèira,Wind slab,,1,2,Off-piste skiing,2022,April,0.5
+255,Switzerland,1683,,,,1,1,Controlled,2018,July,1.0
+256,Switzerland,1683,,,,26,26,Uncontrolled,2018,July,1.0
+257,Switzerland,1683,,,,2,2,Controlled,2019,July,1.0
+258,Switzerland,1683,,,,19,19,Uncontrolled,2019,July,1.0
+259,Switzerland,1683,"Engelberg, Laub",Wind slab,Persistent weak layer,1,2,Off-piste skiing,2019,December,0.5
+260,Switzerland,1683,Piz Nair,Wind slab,,1,4,Off-piste skiing,2019,December,0.25
+261,Switzerland,1683,"Lauchernalp, Stieltihorn",New snow,,1,2,Backcountry skiing,2019,December,0.5
+262,Switzerland,1683,Rossbodenpass,Wind slab,,2,6,Backcountry skiing,2020,February,0.3333333333333333
+263,Switzerland,1683,Strahleggpass,,,1,2,Backcountry skiing,2020,May,0.5
+264,Switzerland,1683,Mont Brûlé,,,1,1,,2020,May,1.0
+265,Switzerland,1683,Titlis,,,1,1,,2020,December,1.0
+266,Switzerland,1683,Crans Montana,,,1,1,,2020,December,1.0
+267,Switzerland,1683,Saas Fee,,,1,1,,2020,December,1.0
+268,Switzerland,1683,Bedretto,,,1,1,,2020,December,1.0
+269,Switzerland,1683,Eggenmanndli,,,1,1,,2020,December,1.0
+270,Switzerland,1683,"Chasseral, La Corne",,,1,1,,2020,December,1.0
+271,Switzerland,1683,Les Louerettes,,,1,1,,2020,December,1.0
+272,Switzerland,1683,Emmetten,,,1,1,,2021,January,1.0
+273,Switzerland,1683,Klosters-Serneus,,,1,1,,2021,January,1.0
+274,Switzerland,1683,Engelberg,,,1,1,,2021,January,1.0
+275,Switzerland,1683,Morschach,,,1,1,,2021,January,1.0
+276,Switzerland,1683,Veytaux,,,1,1,,2021,January,1.0
+277,Switzerland,1683,Gstaad,,,1,1,,2021,January,1.0
+278,Switzerland,1683,Val de Bagnes,,,1,1,,2021,January,1.0
+279,Switzerland,1683,Nendaz,,,1,1,,2021,January,1.0
+280,Switzerland,1683,Nendaz,,,1,1,,2021,January,1.0
+281,Switzerland,1683,La Fouly VS,,,1,1,,2021,January,1.0
+282,Switzerland,1683,Celerina,,,1,1,,2021,February,1.0
+283,Switzerland,1683,Safiental,,,1,1,,2021,February,1.0
+284,Switzerland,1683,Pontresina,,,1,1,,2021,February,1.0
+285,Switzerland,1683,Davos,,,1,1,,2021,March,1.0
+286,Switzerland,1683,Hérémence,,,1,1,,2021,March,1.0
+287,Switzerland,1683,Ayent,,,1,1,,2021,March,1.0
+288,Switzerland,1683,Mont-Noble,,,1,1,,2021,March,1.0
+289,Switzerland,1683,Anniviers,,,1,1,,2021,March,1.0
+290,Switzerland,1683,Andermatt,,,2,2,,2021,March,1.0
+291,Switzerland,1683,Tödi,,,2,2,,2021,May,1.0
+292,Switzerland,1683,Vrenelisgärtli,,,1,1,,2020,November,1.0
+293,Switzerland,1683,Lac de Mauvoisin,,,1,1,,2021,June,1.0
+294,Switzerland,1683,Rothorn,,,1,1,,2021,March,1.0
+295,Switzerland,1683,Zermatt,,,1,1,,2021,December,1.0
+296,Switzerland,1683,Conthey,,,1,5,Backcountry skiing,2022,January,0.2
+297,Switzerland,1683,Goms,,,1,1,,2022,February,1.0
+298,Switzerland,1683,Val Müstair,,,1,1,,2022,February,1.0
+299,Switzerland,1683,Davos,,,1,1,,2022,February,1.0
+300,Switzerland,1683,Scuol,,,1,1,,2022,February,1.0
+301,Switzerland,1683,Engelberg,,,1,1,,2022,February,1.0
+302,Switzerland,1683,Bergün Filisur,,,1,1,,2022,February,1.0
+303,Switzerland,1683,Sachseln,,,2,2,,2022,February,1.0
+304,Switzerland,1683,Scuol,,,2,2,,2022,February,1.0
+305,Switzerland,1683,Vals,,,2,2,Backcountry skiing,2022,April,1.0
+306,Switzerland,1683,Chantonnet,New snow,Persistent weak layer,1,2,Backcountry skiing,2022,December,0.5
+307,Switzerland,1683,Pass dei Omenit,Wind slab,Persistent weak layer,1,4,Backcountry skiing,2022,December,0.25
+308,Switzerland,1683,Piz Radönt,,,1,4,Mountaineering/Climbing,2022,December,0.25
+309,United Kingdom,201,Aonach Mor nr Ben Nevis,Wind slab,,1,2,Mountaineering/Climbing,2020,February,0.5
