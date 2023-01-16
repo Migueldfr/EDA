@@ -1,14 +1,8 @@
-What the project does
-Why the project is useful
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
-
 SKI RESORT 
 
-He analizado datos sobre las estaciones de esqui en el mundo, para relacionar unos continentes entre otros y sacar conclusiones.
+I analize dataset about worldwide ski resorts, make sure which continent are related to each other and get conclusion.
 
-He querido dar respuesta a un planteamiento habitual de grupos de jovenes que quieren ir a alguna estacion de esqui pero no saben donde ir. Ya que este analisis da como resultado , variables tan importantes como el precio, los kilometros que tienen las pistas y los fuera de pistas que hay en cada resort.
+I wanted to get an answer for a party of people, who want to go somewhere for having fun and enjoy the slopes but don't know where to go. We get as result, variables as important as price, Kilometres which has the slopes and freeride there are in each resort.
 
 # 3. Exploratory Data Analysis 
 
