@@ -1,6 +1,6 @@
 SKI RESORT 
 
-I analize dataset about worldwide ski resorts, make sure which continent are related to each other and get conclusion.
+I analized dataset about worldwide ski resorts, make sure which continent are related to each other and get conclusion.
 
 I wanted to get an answer for a party of people, who want to go somewhere for having fun and enjoy the slopes but don't know where to go. We get as result, variables as important as price, Kilometres which has the slopes and freeride there are in each resort.
 
