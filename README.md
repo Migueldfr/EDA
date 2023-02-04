@@ -6,7 +6,7 @@
 ![me](https://www.zellamsee-kaprun.com/bilder/ski/freeride/7356/image-thumb__7356__auto_50aa5baf05281f6b6988b9abf8a8824f/kitzsteinhorn-freerideXXL3.jpg)
 
 
-## Topic
+## Topic and goals
 
 I wanted to get an answer for a party of people, who want to go somewhere for having fun and enjoy the slopes but don't know where to go. We get as result, variables as important as price, Kilometres which has the slopes and freeride there are in each resort.
 
