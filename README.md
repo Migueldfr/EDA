@@ -1,12 +1,10 @@
 ### SKI RESORT  ⛷️
 
-       I analized dataset about worldwide ski resorts, make sure which continent are related to each other and get conclusion
-
-
 ![me](https://www.zellamsee-kaprun.com/bilder/ski/freeride/7356/image-thumb__7356__auto_50aa5baf05281f6b6988b9abf8a8824f/kitzsteinhorn-freerideXXL3.jpg)
 
+I analized dataset about worldwide ski resorts, make sure which continent are related to each other and get conclusion
 
-## Topic and goals 
+## Topic and goals 📦
 
 I wanted to get an answer for a party of people, who want to go somewhere for having fun and enjoy the slopes but don't know where to go. We get as result, variables as important as price, Kilometres which has the slopes and freeride there are in each resort.
 
@@ -28,6 +26,14 @@ We know that the countries which have most of the Kms of freeride are Austria an
          
 In Addition, we have gotten, that the USA the highest prices, but is also the best quality as ski resort. Related all I know we can say the USA is          the best Country for doing skiing, as well in resort as well in freeride.
 
+## Data 📖
+
+Collect from Kaggle and some scrap in skiresort.info
+
 ## Author ✒️
 
 *Miguel De Frutos* - Estudiante del Bootcamp de Data Science en la escuela The Bridge - [Migueldfr](github.com/Migueldfr)
+
+## Licencia 📄
+This project is public, it can be downloaded, and you can work with on it by yourselve.
+
