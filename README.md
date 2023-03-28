@@ -35,5 +35,5 @@ Collect from Kaggle and some scrap in skiresort.info
 *Miguel De Frutos* - Estudiante del Bootcamp de Data Science en la escuela The Bridge - [Migueldfr](github.com/Migueldfr)
 
 ## Licencia 📄
-This project is public, it can be downloaded, and you can work with on it by yourselve.
+This project is public, it can be downloaded, and you can work with on it by yourself.
 
